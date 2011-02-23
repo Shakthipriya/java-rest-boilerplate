@@ -1,0 +1,18 @@
+# Compiled source #
+###################
+*.class
+target/
+
+# OS generated files #
+######################
+*.swp
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Project Files #
+#################
+.idea/*
+*.iml
+

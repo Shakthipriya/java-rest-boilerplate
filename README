@@ -1,0 +1,13 @@
+Java Rest Boilerplate
+
+first draft of a boilerplate for rest development on java
+
+Installation
+
+- clone the git
+- run maven jetty:test
+- test the stubs with curl localhost:8080/hello and curl localhost:8080/hello/visitor
+
+Todo
+
+- get Apache Shiro working with Google Guice
