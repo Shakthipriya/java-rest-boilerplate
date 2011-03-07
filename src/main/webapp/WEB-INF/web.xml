@@ -11,6 +11,6 @@
     </filter-mapping>
 
     <listener>
-        <listener-class>GuiceServletConfig</listener-class>
+        <listener-class>guice.GuiceServletConfig</listener-class>
     </listener>
 </web-app>
